@@ -459,7 +459,7 @@ input[type="submit"]:hover{
 @media screen and (max-width: 768px){
     body{
       
-        background: url("IMG_20191124_170529 (1).jpg") no-repeat center fixed;
+        background: url("./IMG_20191124_170529 (1).jpg") no-repeat center fixed;
         background-size: cover;
        
     }
